@@ -1,7 +1,7 @@
 # Cube-Surfer
 Stacking Cubes (Mechanic)
 
-This fundamental mechanic might have made some companies millionaires. So I wanted to give it a try myself as well. I haven't moved my player with rascast. My input system is shown in the scripts. Finally, you can collect points with w,a,d keys.
+This fundamental mechanic might have made some companies millionaires. So I wanted to give it a try myself as well. I haven't moved my player with Raycast. My input system is shown in the scripts. Finally, you can collect points with w,a,d keys.
 After some reflection, I realized that I am not able to complete this project at the moment. 
 
 ![CubeStack GamePlay1](https://user-images.githubusercontent.com/87286877/170105354-7069df84-4967-467b-a5f1-7cedc6ec2254.png)
